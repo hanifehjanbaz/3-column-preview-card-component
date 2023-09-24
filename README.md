@@ -1,5 +1,7 @@
 # 3-column preview card component
 
+### Links
+- Live Site URL: [live site URL here](https://hanifehjanbaz.github.io/3-column-preview-card-component/)
 
 ## Welcome! 👋
 
